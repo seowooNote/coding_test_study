@@ -1,4 +1,4 @@
-package condingtest.ct.week03;
+package codingtest.ct.week03;
 
 import java.util.LinkedList;
 import java.util.Scanner;
